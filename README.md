@@ -1,2 +1,2 @@
-# Split-learning-slide
+# Split-learning-slides
 slides
